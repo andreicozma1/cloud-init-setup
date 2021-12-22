@@ -13,7 +13,7 @@ apt install vim
 
 apt install ufw fail2ban
 
-apt install zsh
+# apt install zsh
 
 apt install python3-pip python3-venv
 
